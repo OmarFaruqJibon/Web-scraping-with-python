@@ -1,0 +1,49 @@
+"C:\Program Files\Python310\python.exe" "G:/1. SWPU/6th Semester/Data Science/pythonProject/data_science/Final/FinalExam.py"
+
+Part of speech analysis for the review comments
+
+
+POS                   Frequency
+noun                   3081
+punctuation mark       1069
+adjective               509
+verb                    373
+numeral                 205
+
+--------------------------------
+
+Word Frequency : 5368
+
+--------------------------------
+
+noun                    0.573957
+punctuation mark        0.199143
+adjective               0.094821
+verb                    0.069486
+numeral                 0.038189
+adverb                  0.016766
+multiword expression    0.005775
+preposition             0.001490
+time word               0.000186
+suffix                  0.000186
+Name: percentage, dtype: float64
+
+--------------------------------
+
+
+
+---------High Frequency words in comments--------
+
+  Words  Frequency
+0   the        427
+1   and        261
+2     a        234
+3    to        217
+4     I        206
+5    is        177
+6    of        146
+7    it        124
+8   for        113
+9  with         90
+
+Process finished with exit code 0
